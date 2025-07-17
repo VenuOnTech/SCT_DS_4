@@ -54,7 +54,9 @@ This project was completed as part of my final task during the **SkillCraft Tech
 │ ├── Nashville_heatmap.html  
 │ ├── Baton_Rouge_heatmap.html  
 │ └── Sacramento_heatmap.html  
-├── US_Accidents_Analysis.ipynb  
+├── images  
+├── notebooks/  
+│ └── US_Accidents_Analysis.ipynb
 └── README.md  
 
 
