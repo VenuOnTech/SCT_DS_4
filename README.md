@@ -42,9 +42,7 @@ This project was completed as part of my final task during the **SkillCraft Tech
 ---
 
 ## 📂 Project Structure
-
-├── us-accidents/  
-│ └── US_Accidents_March23.csv
+  
 ├── heatmaps/  
 │ ├── Los_Angeles_heatmap.html  
 │ ├── Houston_heatmap.html  
