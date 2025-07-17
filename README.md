@@ -88,5 +88,5 @@ This project gave me hands-on experience with **big data handling**, **visual st
 ---
 
 ## 🔗 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/venu-dadi-05b6b6322/)
 
